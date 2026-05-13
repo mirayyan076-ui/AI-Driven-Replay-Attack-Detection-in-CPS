@@ -1,1 +1,17 @@
-
+cff-version: 1.2.0
+message: "If this code contributes to your work, kindly provide an appropriate citation to the original source.
+"
+title: "Deep Learning-Based Replay Attack Detection\\for Digital Twins in Cyber-Physical Systems"
+authors:
+  - family-names: "Habib"
+    given-names: "Hifza"
+repository-code: "https://github.com/mirayyan076-ui/AI-Driven-Replay-Attack-Detection-in-CPS/tree/main"
+version: 1.0.0
+date-released: 2026-02-02
+keywords:
+  - human pose estimation
+  - occlusion
+  - graph neural network
+  - COCO
+  - PyTorch
+license: "MIT"
