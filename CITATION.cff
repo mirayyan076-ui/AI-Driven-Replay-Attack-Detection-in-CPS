@@ -9,9 +9,11 @@ repository-code: "https://github.com/mirayyan076-ui/AI-Driven-Replay-Attack-Dete
 version: 1.0.0
 date-released: 2026-02-02
 keywords:
-  - human pose estimation
-  - occlusion
-  - graph neural network
-  - COCO
-  - PyTorch
+  -Cyber-Physical Systems
+  -Digital Twin, Replay
+  -Attack
+  -Anomaly Detection
+  -Deep Learning
+  -LSTM
+  -Security
 license: "MIT"
